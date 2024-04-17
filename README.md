@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on the MERN stack.<br><br>🌱 I’m currently learning Angular.<br><br>👯 I’m looking to collaborate on React JS.<br><br>💬 Ask me about C, C++ , Java, Javascript<br><br>📫 Reach me on pabhishekm@gmail.com<br>
+🔭 I’m currently working on the MERN stack.<br><br>🌱 I’m currently learning Next js.<br><br>👯 I’m looking to collaborate on React JS.<br><br>💬 Ask me about C, C++ , Java, Javascript<br><br>📫 Reach me on pabhishekm@gmail.com<br>
 
 
 ## 🌐 Socials:
